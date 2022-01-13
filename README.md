@@ -1,1 +1,1 @@
-# -在树莓派上用golang驱动GPIO
+# -在树莓派上用golang和python驱动GPIO的传感器
