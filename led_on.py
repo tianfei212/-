@@ -7,10 +7,10 @@ button = Button(6)
 
 
 #while True:
-#    led.on()
-#    sleep(1)
-#    led.off()
-#    sleep(1)
+   # led.on()
+   # sleep(1)
+  #  led.off()
+  #  sleep(1)
 
 button.when_pressed=led.on
 button.when_released = led.off
